@@ -2,4 +2,4 @@
 Advanced Javascript Assignment solution 
 
 
-Output is also written in end of code.
+Output is also written in the end of code.
